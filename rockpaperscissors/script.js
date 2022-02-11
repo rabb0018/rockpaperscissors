@@ -113,7 +113,7 @@ function determineWinner() {
             console.log("Winner is player");
             winner = "player";
         } else {
-            console.log("Winner is Computer");
+            console.log("Tied");
             winner ="none";
         }
     } 
